@@ -1,0 +1,26 @@
+{
+  "name": "001_study_javascript",
+  "version": "1.0.0",
+  "description": "study JS",
+  "main": "lesson001.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teieigun/studyJs.git"
+  },
+  "keywords": [
+    "studyJS"
+  ],
+  "author": "tei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teieigun/studyJs/issues"
+  },
+  "homepage": "https://github.com/teieigun/studyJs#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "uniq": "^1.0.1"
+  }
+}
